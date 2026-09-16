@@ -4,6 +4,10 @@ A machine learning project for predicting diabetes using the **Pima Indians Diab
 
 ---
 
+## Deploy
+- i will deploy it in streamlit cloud
+- url :- https://diabetes-mlp-prediction-gmmf6fm9vrgwln3n8c4mhk.streamlit.app/
+
 ## 📌 Project Overview
 
 Diabetes is a chronic metabolic disorder that requires early detection and appropriate medical evaluation. This project develops a binary classification system to predict whether a patient is likely to have diabetes based on clinical features.
